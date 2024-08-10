@@ -1,0 +1,21 @@
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
+
+# Archivos del entorno de desarrollo
+.env
+*.env
+
+# Archivos estáticos y medios
+/static/
+media/
+
+# Archivos de la base de datos
+*.sqlite3
+
+# Archivos del editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
