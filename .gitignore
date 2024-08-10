@@ -2,7 +2,7 @@
 venv/
 *.pyc
 __pycache__/
-
+/venv
 # Archivos del entorno de desarrollo
 .env
 *.env
