@@ -1,0 +1,1 @@
+web: gunicorn chequealo_api.wsgi
