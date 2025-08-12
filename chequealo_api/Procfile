@@ -1,1 +1,1 @@
-web: gunicorn chequealo_api.wsgi
+web: gunicorn chequealo_api.chequealo_api.wsgi
